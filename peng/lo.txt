@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 nihao bitian
+=======
+nihao bitian
+>>>>>>> origin/tesing
