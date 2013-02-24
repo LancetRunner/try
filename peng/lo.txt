@@ -1,6 +1,2 @@
 testing
-<<<<<<< HEAD
 nihao bitian
-=======
-nihao biaoge
->>>>>>> nima
