@@ -1,2 +1,10 @@
 testing
+<<<<<<< HEAD
 nihao biaoge
+=======
+<<<<<<< HEAD
+nihao bitian
+=======
+nihao biaoge
+>>>>>>> nima
+>>>>>>> origin/tesing
